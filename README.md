@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Michel, a 23 year old ICT student.
+### Hi there 👋 I'm Michel, a 24 year old ICT student.
 
 - 🌱 I’m currently learning Java.
 - 💬 Ask me about Hogeschool Utrecht.
